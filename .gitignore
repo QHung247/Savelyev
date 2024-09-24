@@ -20,6 +20,6 @@
 *.ind
 *.log
 *.out
-*.pdf
+saveliev*.pdf
 *.synctex.gz
 *.toc
